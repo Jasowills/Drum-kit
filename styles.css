@@ -60,6 +60,16 @@ a{
     color: white;
     text-decoration: none;
 }
+input{
+    margin: auto;
+    display: flex;
+    padding: 1rem;
+    margin-top: 50px;
+    font-size: 30px;
+    background-color: inherit;
+    border: solid 1px lightblue;
+    color: blue;
+}
 .sound{
 color: whitesmoke;
     text-shadow: 1px 1px 2px #eee;
